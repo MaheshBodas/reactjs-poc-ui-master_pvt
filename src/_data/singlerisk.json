@@ -1,0 +1,41 @@
+{
+    "id": 1,
+    "risktype": 1,
+    "risk_type_name": "Automobile",
+    "risk_name": "Toyota 1",
+    "risk_description": "Toyota 1 Risk policy",
+    "risk_riskfields": [
+        {
+            "id": 1,
+            "risktypefield": 1,
+            "risk": 1,
+            "risk_type_field_name": "model",
+            "risk_type_field_enum": "text",
+            "risk_field_value": "TYT1000"
+        },
+        {
+            "id": 2,
+            "risktypefield": 2,
+            "risk": 1,
+            "risk_type_field_name": "doors",
+            "risk_type_field_enum": "integer",
+            "risk_field_value": "4"
+        },
+        {
+            "id": 3,
+            "risktypefield": 3,
+            "risk": 1,
+            "risk_type_field_name": "amount",
+            "risk_type_field_enum": "currency",
+            "risk_field_value": "1000.00"
+        },
+        {
+            "id": 4,
+            "risktypefield": 4,
+            "risk": 1,
+            "risk_type_field_name": "issuedate",
+            "risk_type_field_enum": "date",
+            "risk_field_value": "11/01/2004"
+        }
+    ]
+}
