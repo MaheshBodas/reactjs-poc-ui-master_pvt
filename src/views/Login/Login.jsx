@@ -123,7 +123,7 @@ class Login extends Component {
       return (      
         <div className="login-container">
           <Form id="loginForm" ref="loginForm" autoComplete="on" className="card-box login-form" model={loginForm} labelPosition="left" labelWidth="0px" size="mini"  rules={loginRules}>          
-            <h3 className="title">ReactJS Paramount User</h3>
+            <h3 className="title">ReactJS PoC User</h3>
             <Form.Item prop="username">   
             <span className="svg-container svg-container_login">
               {/* <SvgIcon iconClass="user" /> */}

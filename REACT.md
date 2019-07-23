@@ -1,4 +1,4 @@
-# ReactJS Paramount
+# reactjs-poc-ui-master
 
 ## Intro 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)

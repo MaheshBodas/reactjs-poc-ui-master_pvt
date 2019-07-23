@@ -55,7 +55,7 @@ class DefaultAside extends Component {
                   </div>
                 </div>
                 <div>
-                  <small className="text-muted">ReactJS Paramount</small>                
+                  <small className="text-muted">ReactJS PoC</small>                
                 </div>
               <div className="text-truncate font-weight-bold">Powered by ReactJS & Redux</div>
               <small className=" text-muted"><p>An application to Create and View user defined entities. Implement dynamic forms with validations for entity creation.</p>
