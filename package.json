@@ -3,13 +3,13 @@
   "version": "2.1.5",
   "description": "An application to Create and View user defined entities.",
   "author": "Mahesh Bodas",
-  "homepage": "https://coreui.io",
+  "homepage": "https://reactjsparamount.herokuapp.com/",
   "copyright": "Copyright 2019 Mahesh Bodas",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
+    "url": "git@github.com:MaheshBodas/reactjs-poc-ui-master.git"
   },
   "dependencies": {
     "@coreui/coreui": "^2.1.7",
@@ -79,7 +79,7 @@
     "not ie <= 9",
     "not op_mini all"
   ],
-  "jest": {        
+  "jest": {
     "collectCoverageFrom": [
       "src/__tests__/*.{js,jsx}",
       "!**/*index.js",
